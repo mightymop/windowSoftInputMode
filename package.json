@@ -1,0 +1,46 @@
+{
+  "_from": "git+https://github.com/mightymop/windowSoftInputMode.git",
+  "_id": "cordova-plugin-windowsoftinputmode@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-windowsoftinputmode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mightymop/windowSoftInputMode.git",
+    "rawSpec": "https://github.com/mightymop/windowSoftInputMode.git",
+    "saveSpec": "git+https://github.com/mightymop/windowSoftInputMode.git",
+    "fetchSpec": "https://github.com/mightymop/windowSoftInputMode.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/mightymop/windowSoftInputMode.git",
+  "_spec": "https://github.com/mightymop/windowSoftInputMode.git",
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-windowsoftinputmode",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-windowsoftinputmode",
+  "types": "./types/index.d.ts",
+  "version": "1.0.0"
+}
